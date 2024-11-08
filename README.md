@@ -11,7 +11,7 @@ This project is an academic work for the assignment "Analítica de datos estruct
 
 ## Requirements
 
-For this project you will need to have installed the libraries present in the [`requirements.txt`](https://github.com/faendal/MushroomEdibilityPrediction/requirements.txt) file. You can install them by running the following command:
+For this project you will need to have installed the libraries present in the [`requirements.txt`](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/requirements.txt) file. You can install them by running the following command:
 
 ```bash
 pip install -r requirements.txt
