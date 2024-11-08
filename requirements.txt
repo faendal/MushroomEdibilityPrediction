@@ -12,3 +12,5 @@ scipy
 Sphinx
 myst-parser
 rst2pdf
+streamlit
+urllib3
