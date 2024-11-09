@@ -16,4 +16,3 @@ streamlit
 urllib3
 ipywidgets
 ipykernel
-weasyprint
