@@ -1,5 +1,3 @@
-# Evaluation
-
 ## Model Performance Summary
 - **Chosen Model**: Random Forest (if selected based on performance).
 - **Accuracy**: 96%

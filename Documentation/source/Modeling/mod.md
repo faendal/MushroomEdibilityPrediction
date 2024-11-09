@@ -1,5 +1,3 @@
-# Modeling
-
 ## Model Selection
 - Experiment with various classification algorithms:
     - Classification Tree
@@ -20,7 +18,7 @@
 - **Accuracy**: Measure of correctly predicted instances.
 - **ROC-AUC**: Area under the Receiver Operating Characteristic curve.
 - **F1 Score**: Balances precision and recall, especially useful for imbalanced classes.
-- **Recall**: For venomous class. Measure of actual positive instances that were correctly predicted.
+- **Recall**: For poisonous class. Measure of actual positive instances that were correctly predicted.
 
 ## Model Results
 - Summary of each model's performance on training and validation sets.
