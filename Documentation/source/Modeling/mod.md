@@ -1,10 +1,10 @@
 ## Model Selection
 - Experiment with various classification algorithms:
     - Classification Tree
+    - Logistic Regression
     - K Nearest Neighbors (KNN)
-    - Support Vector Machine (SVM)
     - Neural Network
-    - Bagging
+    - XGBost
     - Random Forest
     - Gradient Boosting
 
