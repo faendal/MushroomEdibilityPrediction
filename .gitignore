@@ -163,3 +163,7 @@ cython_debug/
 
 Data/Raw/
 Models/Parametrization/
+Notebooks/node_modules/
+
+Notebooks/package-lock.json
+Notebooks/package.json
