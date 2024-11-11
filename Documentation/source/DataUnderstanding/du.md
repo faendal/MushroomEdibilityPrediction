@@ -1,4 +1,7 @@
 ## Data Sources
+
+Original data could not be uploaded to GitHub due to its size. However, the links to the original data are available at:
+
 - [Kaggle Playground Series S4E8](https://www.kaggle.com/competitions/playground-series-s4e8/data)
 - [Mushroom Dataset - UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/73/mushroom)
 

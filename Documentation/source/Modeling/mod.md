@@ -9,16 +9,16 @@
     - Gradient Boosting
 
 ## Model Training
-- Train each model using cross-validation to optimize performance.
-- Perform hyperparameter tuning for the best model 3 models.
-- Save the best model for each of the 3 algorithms chosen before.
+- Train and evaluate each model
+- Use hypothesis testing to determine the best 3 models
+- Perform hyperparameter tuning with GridSearch and BayesSearch for the best model 3 models.
+- Save the best model for each of the 6 algorithms chosen before.
 - Save the best overall model for deployment.
 
-## Evaluation Metrics
-- **Accuracy**: Measure of correctly predicted instances.
-- **ROC-AUC**: Area under the Receiver Operating Characteristic curve.
-- **F1 Score**: Balances precision and recall, especially useful for imbalanced classes.
-- **Recall**: For poisonous class. Measure of actual positive instances that were correctly predicted.
+This process was distributed into 3 notebooks:
 
-## Model Results
-- Summary of each model's performance on training and validation sets.
+1. **Model creation - Hypothesis testing**: [ModelCreation.ipynb](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Notebooks/2.1-ModelCreation.ipynb)
+
+2. **Hyperparameter tuning**: [HiperparameterOptimization.ipynb](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Notebooks/2.2-HiperparameterOptimization.ipynb)
+
+3. **Model Selection**: [ModelSelection.ipynb](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Notebooks/2.3-ModelSelection.ipynb)

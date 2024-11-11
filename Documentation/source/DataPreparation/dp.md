@@ -1,6 +1,6 @@
 ## Data Cleaning
 
-This process was distributed between two notebooks:
+This process was distributed between three notebooks:
 
 - [InitialDataCleaning.ipynb](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Notebooks/1.1-InitialDataCleaning.ipynb)
 - [EDA-FullDataCleaning.ipynb](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Notebooks/1.2-EDA-FullDataCleaning.ipynb)
