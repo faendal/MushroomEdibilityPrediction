@@ -19,4 +19,4 @@ pip install -r requirements.txt
 
 ## Methodology
 
-This project was developed using the CRISP-DM methodology. The steps followed were:
+This project was developed using the CRISP-DM methodology. The complete documentation can be found in the [`MushroomEdibilityPrediction.pdf`](https://github.com/faendal/MushroomEdibilityPrediction/blob/main/Documentation/build/pdf/MushroomEdibilityPrediction.pdf)

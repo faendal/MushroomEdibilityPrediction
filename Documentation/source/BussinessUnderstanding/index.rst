@@ -6,25 +6,25 @@ Bussiness Understanding
     :maxdepth: 2
     :caption: Contents:
 
-    Project Objective
-    =================
+Project Objective
+=================
 
-    The goal of this project is to predict whether a mushroom is edible or poisonous based on its physical characteristics.
+The goal of this project is to predict whether a mushroom is edible or poisonous based on its physical characteristics.
 
-    Problem Statement
-    =================
+Problem Statement
+=================
 
-    Incorrect predictions could lead to serious health risks if poisonous mushrooms are misclassified as edible. Therefore, we aim to achieve a high level of accuracy and reliability in our model.
+Incorrect predictions could lead to serious health risks if poisonous mushrooms are misclassified as edible. Therefore, we aim to achieve a high level of accuracy and reliability in our model.
 
-    Success Criteria
-    ================
+Success Criteria
+================
 
-    - **Model Performance**: Achieve an accuracy of at least 95%.
-    - **Practicality**: The model should be easy to interpret and explain to non-technical stakeholders.
+- **Model Performance**: Achieve an accuracy of at least 95%.
+- **Practicality**: The model should be easy to interpret and explain to non-technical stakeholders.
 
-    Constraints
-    ===========
+Constraints
+===========
 
-    - Limited dataset from Kaggle and UCI.
-    - Must operate within a reasonable time frame for data processing and model prediction.
+- Limited dataset from Kaggle and UCI.
+- Must operate within a reasonable time frame for data processing and model prediction.
 
